@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/software/!svn/ver/9169/project/release/software-mac/6051.Q0.1007.03.000000/host_drivers/Linux/ssv6xxx/crypto
+END
+aes_glue.c
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/software/!svn/ver/9169/project/release/software-mac/6051.Q0.1007.03.000000/host_drivers/Linux/ssv6xxx/crypto/aes_glue.c
+END
+sha1_glue.c
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/software/!svn/ver/9169/project/release/software-mac/6051.Q0.1007.03.000000/host_drivers/Linux/ssv6xxx/crypto/sha1_glue.c
+END
+sha1-armv4-large.S
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/software/!svn/ver/9169/project/release/software-mac/6051.Q0.1007.03.000000/host_drivers/Linux/ssv6xxx/crypto/sha1-armv4-large.S
+END
+aes-armv4.S
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/software/!svn/ver/9169/project/release/software-mac/6051.Q0.1007.03.000000/host_drivers/Linux/ssv6xxx/crypto/aes-armv4.S
+END

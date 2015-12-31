@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/software/!svn/ver/9779/project/release/software-mac/6051.Q0.1009.07.000000/ssv6xxx
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/software/!svn/ver/9779/project/release/software-mac/6051.Q0.1009.07.000000/ssv6xxx/Kconfig
+END
+calib_bin_enable.sh
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/software/!svn/ver/9779/project/release/software-mac/6051.Q0.1009.07.000000/ssv6xxx/calib_bin_enable.sh
+END
+ver_info.pl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/software/!svn/ver/9779/project/release/software-mac/6051.Q0.1009.07.000000/ssv6xxx/ver_info.pl
+END
+calib.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/software/!svn/ver/9779/project/release/software-mac/6051.Q0.1009.07.000000/ssv6xxx/calib.sh
+END
+Makefile.cross_linux
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/software/!svn/ver/9779/project/release/software-mac/6051.Q0.1009.07.000000/ssv6xxx/Makefile.cross_linux
+END
+genconf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/software/!svn/ver/9779/project/release/software-mac/6051.Q0.1009.07.000000/ssv6xxx/genconf.sh
+END
+Options.of.Test.Cases.docm
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/software/!svn/ver/9779/project/release/software-mac/6051.Q0.1009.07.000000/ssv6xxx/Options.of.Test.Cases.docm
+END
+unload.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/software/!svn/ver/9779/project/release/software-mac/6051.Q0.1009.07.000000/ssv6xxx/unload.sh
+END
+Makefile.android
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/software/!svn/ver/9779/project/release/software-mac/6051.Q0.1009.07.000000/ssv6xxx/Makefile.android
+END
+ap.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/software/!svn/ver/9779/project/release/software-mac/6051.Q0.1009.07.000000/ssv6xxx/ap.cfg
+END
+ssvcfg.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/software/!svn/ver/9779/project/release/software-mac/6051.Q0.1009.07.000000/ssv6xxx/ssvcfg.sh
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/software/!svn/ver/9779/project/release/software-mac/6051.Q0.1009.07.000000/ssv6xxx/build.sh
+END
+kmsg.sh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/software/!svn/ver/9779/project/release/software-mac/6051.Q0.1009.07.000000/ssv6xxx/kmsg.sh
+END
+launch_ap_sta.sh
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/software/!svn/ver/9779/project/release/software-mac/6051.Q0.1009.07.000000/ssv6xxx/launch_ap_sta.sh
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/software/!svn/ver/9779/project/release/software-mac/6051.Q0.1009.07.000000/ssv6xxx/Makefile
+END
+wpa_supplicant.conf
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/software/!svn/ver/9779/project/release/software-mac/6051.Q0.1009.07.000000/ssv6xxx/wpa_supplicant.conf
+END
+cal.txt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/software/!svn/ver/9779/project/release/software-mac/6051.Q0.1009.07.000000/ssv6xxx/cal.txt
+END
+remove_old_driver.sh
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/software/!svn/ver/9779/project/release/software-mac/6051.Q0.1009.07.000000/ssv6xxx/remove_old_driver.sh
+END
+sta.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/software/!svn/ver/9779/project/release/software-mac/6051.Q0.1009.07.000000/ssv6xxx/sta.cfg
+END
+android-build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/software/!svn/ver/9779/project/release/software-mac/6051.Q0.1009.07.000000/ssv6xxx/android-build.sh
+END
+parser-conf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/software/!svn/ver/9779/project/release/software-mac/6051.Q0.1009.07.000000/ssv6xxx/parser-conf.sh
+END
+load.sh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/software/!svn/ver/9779/project/release/software-mac/6051.Q0.1009.07.000000/ssv6xxx/load.sh
+END
+clean_log.sh
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/software/!svn/ver/9779/project/release/software-mac/6051.Q0.1009.07.000000/ssv6xxx/clean_log.sh
+END
+rules.mak
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/software/!svn/ver/9779/project/release/software-mac/6051.Q0.1009.07.000000/ssv6xxx/rules.mak
+END
+ap_launch.sh
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/software/!svn/ver/9779/project/release/software-mac/6051.Q0.1009.07.000000/ssv6xxx/ap_launch.sh
+END
+ap_shutdown.sh
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/software/!svn/ver/9779/project/release/software-mac/6051.Q0.1009.07.000000/ssv6xxx/ap_shutdown.sh
+END
+linux-build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/software/!svn/ver/9779/project/release/software-mac/6051.Q0.1009.07.000000/ssv6xxx/linux-build.sh
+END
+ap_check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/software/!svn/ver/9779/project/release/software-mac/6051.Q0.1009.07.000000/ssv6xxx/ap_check.sh
+END
+cli
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/software/!svn/ver/9779/project/release/software-mac/6051.Q0.1009.07.000000/ssv6xxx/cli
+END
+launch_sta_ap.sh
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/software/!svn/ver/9779/project/release/software-mac/6051.Q0.1009.07.000000/ssv6xxx/launch_sta_ap.sh
+END
+config.mak
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/software/!svn/ver/9779/project/release/software-mac/6051.Q0.1009.07.000000/ssv6xxx/config.mak
+END

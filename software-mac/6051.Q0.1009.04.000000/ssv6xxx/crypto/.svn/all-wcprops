@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/software/!svn/ver/9433/project/release/software-mac/6051.Q0.1009.04.000000/ssv6xxx/crypto
+END
+aes-armv4.S
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/software/!svn/ver/9433/project/release/software-mac/6051.Q0.1009.04.000000/ssv6xxx/crypto/aes-armv4.S
+END
+aes_glue.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/software/!svn/ver/9433/project/release/software-mac/6051.Q0.1009.04.000000/ssv6xxx/crypto/aes_glue.c
+END
+sha1_glue.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/software/!svn/ver/9433/project/release/software-mac/6051.Q0.1009.04.000000/ssv6xxx/crypto/sha1_glue.c
+END
+sha1-armv4-large.S
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/software/!svn/ver/9433/project/release/software-mac/6051.Q0.1009.04.000000/ssv6xxx/crypto/sha1-armv4-large.S
+END

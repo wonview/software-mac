@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/software/!svn/ver/7864/project/release/software-mac/6051.Q0.1006.000000/host_drivers/Linux/ssv6xxx/ssv6200smac
+END
+efuse.c
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/software/!svn/ver/7864/project/release/software-mac/6051.Q0.1006.000000/host_drivers/Linux/ssv6xxx/ssv6200smac/efuse.c
+END
+ssv6xxx_debugfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/software/!svn/ver/7864/project/release/software-mac/6051.Q0.1006.000000/host_drivers/Linux/ssv6xxx/ssv6200smac/ssv6xxx_debugfs.c
+END
+drv_comm.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/software/!svn/ver/7864/project/release/software-mac/6051.Q0.1006.000000/host_drivers/Linux/ssv6xxx/ssv6200smac/drv_comm.h
+END
+ampdu.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/software/!svn/ver/7864/project/release/software-mac/6051.Q0.1006.000000/host_drivers/Linux/ssv6xxx/ssv6200smac/ampdu.h
+END
+efuse.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/software/!svn/ver/7864/project/release/software-mac/6051.Q0.1006.000000/host_drivers/Linux/ssv6xxx/ssv6200smac/efuse.h
+END
+ssv_rc_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/software/!svn/ver/7864/project/release/software-mac/6051.Q0.1006.000000/host_drivers/Linux/ssv6xxx/ssv6200smac/ssv_rc_common.h
+END
+ssv6xxx_debugfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/software/!svn/ver/7864/project/release/software-mac/6051.Q0.1006.000000/host_drivers/Linux/ssv6xxx/ssv6200smac/ssv6xxx_debugfs.h
+END
+linux_3_0_0.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/software/!svn/ver/7864/project/release/software-mac/6051.Q0.1006.000000/host_drivers/Linux/ssv6xxx/ssv6200smac/linux_3_0_0.h
+END
+sec_wep.c
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/software/!svn/ver/7864/project/release/software-mac/6051.Q0.1006.000000/host_drivers/Linux/ssv6xxx/ssv6200smac/sec_wep.c
+END
+ssv_ht_rc.c
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/software/!svn/ver/7864/project/release/software-mac/6051.Q0.1006.000000/host_drivers/Linux/ssv6xxx/ssv6200smac/ssv_ht_rc.c
+END
+ssv_ht_rc.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/software/!svn/ver/7864/project/release/software-mac/6051.Q0.1006.000000/host_drivers/Linux/ssv6xxx/ssv6200smac/ssv_ht_rc.h
+END
+ssv_rc.c
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/software/!svn/ver/7864/project/release/software-mac/6051.Q0.1006.000000/host_drivers/Linux/ssv6xxx/ssv6200smac/ssv_rc.c
+END
+ap.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/software/!svn/ver/7864/project/release/software-mac/6051.Q0.1006.000000/host_drivers/Linux/ssv6xxx/ssv6200smac/ap.c
+END
+p2p.c
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/software/!svn/ver/7864/project/release/software-mac/6051.Q0.1006.000000/host_drivers/Linux/ssv6xxx/ssv6200smac/p2p.c
+END
+sec_tkip.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/software/!svn/ver/7864/project/release/software-mac/6051.Q0.1006.000000/host_drivers/Linux/ssv6xxx/ssv6200smac/sec_tkip.c
+END
+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/software/!svn/ver/7864/project/release/software-mac/6051.Q0.1006.000000/host_drivers/Linux/ssv6xxx/ssv6200smac/init.c
+END
+ssv_rc.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/software/!svn/ver/7864/project/release/software-mac/6051.Q0.1006.000000/host_drivers/Linux/ssv6xxx/ssv6200smac/ssv_rc.h
+END
+ap.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/software/!svn/ver/7864/project/release/software-mac/6051.Q0.1006.000000/host_drivers/Linux/ssv6xxx/ssv6200smac/ap.h
+END
+p2p.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/software/!svn/ver/7864/project/release/software-mac/6051.Q0.1006.000000/host_drivers/Linux/ssv6xxx/ssv6200smac/p2p.h
+END
+lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/software/!svn/ver/7864/project/release/software-mac/6051.Q0.1006.000000/host_drivers/Linux/ssv6xxx/ssv6200smac/lib.c
+END
+wapi_sms4.c
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/software/!svn/ver/7864/project/release/software-mac/6051.Q0.1006.000000/host_drivers/Linux/ssv6xxx/ssv6200smac/wapi_sms4.c
+END
+ssv_pm.c
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/software/!svn/ver/7864/project/release/software-mac/6051.Q0.1006.000000/host_drivers/Linux/ssv6xxx/ssv6200smac/ssv_pm.c
+END
+init.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/software/!svn/ver/7864/project/release/software-mac/6051.Q0.1006.000000/host_drivers/Linux/ssv6xxx/ssv6200smac/init.h
+END
+lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/software/!svn/ver/7864/project/release/software-mac/6051.Q0.1006.000000/host_drivers/Linux/ssv6xxx/ssv6200smac/lib.h
+END
+wapi_sms4.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/software/!svn/ver/7864/project/release/software-mac/6051.Q0.1006.000000/host_drivers/Linux/ssv6xxx/ssv6200smac/wapi_sms4.h
+END
+ssv_pm.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/software/!svn/ver/7864/project/release/software-mac/6051.Q0.1006.000000/host_drivers/Linux/ssv6xxx/ssv6200smac/ssv_pm.h
+END
+sec_ccmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/software/!svn/ver/7864/project/release/software-mac/6051.Q0.1006.000000/host_drivers/Linux/ssv6xxx/ssv6200smac/sec_ccmp.c
+END
+dev.c
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/software/!svn/ver/7864/project/release/software-mac/6051.Q0.1006.000000/host_drivers/Linux/ssv6xxx/ssv6200smac/dev.c
+END
+sec.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/software/!svn/ver/7864/project/release/software-mac/6051.Q0.1006.000000/host_drivers/Linux/ssv6xxx/ssv6200smac/sec.h
+END
+linux_2_6_35.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/software/!svn/ver/7864/project/release/software-mac/6051.Q0.1006.000000/host_drivers/Linux/ssv6xxx/ssv6200smac/linux_2_6_35.h
+END
+dev.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/software/!svn/ver/7864/project/release/software-mac/6051.Q0.1006.000000/host_drivers/Linux/ssv6xxx/ssv6200smac/dev.h
+END
+dev_tbl.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/software/!svn/ver/7864/project/release/software-mac/6051.Q0.1006.000000/host_drivers/Linux/ssv6xxx/ssv6200smac/dev_tbl.h
+END
+sec_wpi.c
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/software/!svn/ver/7864/project/release/software-mac/6051.Q0.1006.000000/host_drivers/Linux/ssv6xxx/ssv6200smac/sec_wpi.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/software/!svn/ver/7864/project/release/software-mac/6051.Q0.1006.000000/host_drivers/Linux/ssv6xxx/ssv6200smac/Makefile
+END
+sec_wpi.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/software/!svn/ver/7864/project/release/software-mac/6051.Q0.1006.000000/host_drivers/Linux/ssv6xxx/ssv6200smac/sec_wpi.h
+END
+ampdu.c
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/software/!svn/ver/7864/project/release/software-mac/6051.Q0.1006.000000/host_drivers/Linux/ssv6xxx/ssv6200smac/ampdu.c
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/software/!svn/ver/7864/project/release/software-mac/6051.Q0.1007.000000/host_drivers/Linux/ssv6xxx/hci_wrapper
+END
+ssv_huw.c
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/software/!svn/ver/7864/project/release/software-mac/6051.Q0.1007.000000/host_drivers/Linux/ssv6xxx/hci_wrapper/ssv_huw.c
+END
+ssv_huw.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/software/!svn/ver/7864/project/release/software-mac/6051.Q0.1007.000000/host_drivers/Linux/ssv6xxx/hci_wrapper/ssv_huw.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/software/!svn/ver/7864/project/release/software-mac/6051.Q0.1007.000000/host_drivers/Linux/ssv6xxx/hci_wrapper/Makefile
+END

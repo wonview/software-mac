@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/software/!svn/ver/9115/project/release/software-mac/6051.Q0.1007.02.000000/host_drivers/Linux/ssv6xxx
+END
+remove_old_driver.sh
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/software/!svn/ver/9084/project/release/software-mac/6051.Q0.1007.02.000000/host_drivers/Linux/ssv6xxx/remove_old_driver.sh
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/software/!svn/ver/9084/project/release/software-mac/6051.Q0.1007.02.000000/host_drivers/Linux/ssv6xxx/Kconfig
+END
+ver_info.pl
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/software/!svn/ver/9084/project/release/software-mac/6051.Q0.1007.02.000000/host_drivers/Linux/ssv6xxx/ver_info.pl
+END
+calib_bin_enable.sh
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/software/!svn/ver/9084/project/release/software-mac/6051.Q0.1007.02.000000/host_drivers/Linux/ssv6xxx/calib_bin_enable.sh
+END
+calib.sh
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/software/!svn/ver/9084/project/release/software-mac/6051.Q0.1007.02.000000/host_drivers/Linux/ssv6xxx/calib.sh
+END
+sta.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/software/!svn/ver/9084/project/release/software-mac/6051.Q0.1007.02.000000/host_drivers/Linux/ssv6xxx/sta.cfg
+END
+android-build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/software/!svn/ver/9084/project/release/software-mac/6051.Q0.1007.02.000000/host_drivers/Linux/ssv6xxx/android-build.sh
+END
+config.mak.6051Q
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/software/!svn/ver/9084/project/release/software-mac/6051.Q0.1007.02.000000/host_drivers/Linux/ssv6xxx/config.mak.6051Q
+END
+genconf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/software/!svn/ver/9084/project/release/software-mac/6051.Q0.1007.02.000000/host_drivers/Linux/ssv6xxx/genconf.sh
+END
+load.sh
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/software/!svn/ver/9084/project/release/software-mac/6051.Q0.1007.02.000000/host_drivers/Linux/ssv6xxx/load.sh
+END
+Options.of.Test.Cases.docm
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/software/!svn/ver/9084/project/release/software-mac/6051.Q0.1007.02.000000/host_drivers/Linux/ssv6xxx/Options.of.Test.Cases.docm
+END
+unload.sh
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/software/!svn/ver/9084/project/release/software-mac/6051.Q0.1007.02.000000/host_drivers/Linux/ssv6xxx/unload.sh
+END
+Makefile.android
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/software/!svn/ver/9084/project/release/software-mac/6051.Q0.1007.02.000000/host_drivers/Linux/ssv6xxx/Makefile.android
+END
+clean_log.sh
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/software/!svn/ver/9084/project/release/software-mac/6051.Q0.1007.02.000000/host_drivers/Linux/ssv6xxx/clean_log.sh
+END
+ap.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/software/!svn/ver/9084/project/release/software-mac/6051.Q0.1007.02.000000/host_drivers/Linux/ssv6xxx/ap.cfg
+END
+config.mak.6051Z
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/software/!svn/ver/9084/project/release/software-mac/6051.Q0.1007.02.000000/host_drivers/Linux/ssv6xxx/config.mak.6051Z
+END
+rules.mak
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/software/!svn/ver/9084/project/release/software-mac/6051.Q0.1007.02.000000/host_drivers/Linux/ssv6xxx/rules.mak
+END
+ap_launch.sh
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/software/!svn/ver/9084/project/release/software-mac/6051.Q0.1007.02.000000/host_drivers/Linux/ssv6xxx/ap_launch.sh
+END
+ssvcfg.sh
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/software/!svn/ver/9084/project/release/software-mac/6051.Q0.1007.02.000000/host_drivers/Linux/ssv6xxx/ssvcfg.sh
+END
+ap_shutdown.sh
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/software/!svn/ver/9084/project/release/software-mac/6051.Q0.1007.02.000000/host_drivers/Linux/ssv6xxx/ap_shutdown.sh
+END
+ap_check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/software/!svn/ver/9084/project/release/software-mac/6051.Q0.1007.02.000000/host_drivers/Linux/ssv6xxx/ap_check.sh
+END
+cli
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/software/!svn/ver/9084/project/release/software-mac/6051.Q0.1007.02.000000/host_drivers/Linux/ssv6xxx/cli
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/software/!svn/ver/9084/project/release/software-mac/6051.Q0.1007.02.000000/host_drivers/Linux/ssv6xxx/build.sh
+END
+kmsg.sh
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/software/!svn/ver/9084/project/release/software-mac/6051.Q0.1007.02.000000/host_drivers/Linux/ssv6xxx/kmsg.sh
+END
+config.mak
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/software/!svn/ver/9084/project/release/software-mac/6051.Q0.1007.02.000000/host_drivers/Linux/ssv6xxx/config.mak
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/software/!svn/ver/9084/project/release/software-mac/6051.Q0.1007.02.000000/host_drivers/Linux/ssv6xxx/Makefile
+END
+cal.txt
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/software/!svn/ver/9084/project/release/software-mac/6051.Q0.1007.02.000000/host_drivers/Linux/ssv6xxx/cal.txt
+END

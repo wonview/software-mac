@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/software/!svn/ver/8736/project/release/software-mac/6051.Q0.1007.01.000000/host_drivers/Linux/ssv6xxx/hwif/sdio
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/software/!svn/ver/8736/project/release/software-mac/6051.Q0.1007.01.000000/host_drivers/Linux/ssv6xxx/hwif/sdio/Makefile
+END
+sdio.c
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/software/!svn/ver/8736/project/release/software-mac/6051.Q0.1007.01.000000/host_drivers/Linux/ssv6xxx/hwif/sdio/sdio.c
+END
+sdio_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/software/!svn/ver/8736/project/release/software-mac/6051.Q0.1007.01.000000/host_drivers/Linux/ssv6xxx/hwif/sdio/sdio_def.h
+END

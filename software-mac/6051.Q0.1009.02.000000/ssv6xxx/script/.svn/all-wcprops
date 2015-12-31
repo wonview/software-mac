@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/script
+END
+ap-no_sec.sh
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/script/ap-no_sec.sh
+END
+pack
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/script/pack
+END
+ap-tkip.sh
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/script/ap-tkip.sh
+END
+ap-aes.sh
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/script/ap-aes.sh
+END
+ap_sta.sh
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/script/ap_sta.sh
+END
+redoall
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/script/redoall
+END
+scan.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/script/scan.cfg
+END
+wpa.conf.template
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/script/wpa.conf.template
+END
+redofw
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/script/redofw
+END
+genconf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/script/genconf.sh
+END
+unload_dhcp.sh
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/script/unload_dhcp.sh
+END
+hci_mib
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/script/hci_mib
+END
+load_unload.sh
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/script/load_unload.sh
+END
+find_ssv_wlan
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/script/find_ssv_wlan
+END
+p2p.conf.template
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/script/p2p.conf.template
+END
+sta.cfg.template
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/script/sta.cfg.template
+END
+get_mac
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/script/get_mac
+END
+hostapd.conf.template
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/script/hostapd.conf.template
+END
+redodrv
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/script/redodrv
+END
+check_con_ap.sh
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/script/check_con_ap.sh
+END
+hostapd.conf.TKIP.template
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/script/hostapd.conf.TKIP.template
+END
+dhcpd.conf
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/script/dhcpd.conf
+END
+hostapd.conf.AES.template
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/script/hostapd.conf.AES.template
+END
+cli
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/script/cli
+END
+ap.sh
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/script/ap.sh
+END
+scan_conn.sh
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/script/scan_conn.sh
+END
+load_ap_sta.sh
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/script/load_ap_sta.sh
+END
+p2p_dual.sh
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/script/p2p_dual.sh
+END
+release
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/script/release
+END
+wpa-cli-action.sh
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/script/wpa-cli-action.sh
+END
+p2p-action.sh
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/script/p2p-action.sh
+END
+cpu
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/script/cpu
+END
+scratch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/script/scratch
+END
+find_ssv_phy
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/script/find_ssv_phy
+END
+unload.sh
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/script/unload.sh
+END
+clean_log.sh
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/script/clean_log.sh
+END
+scan_test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/script/scan_test.sh
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/script/license.txt
+END
+sta.sh
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/script/sta.sh
+END
+showq
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/script/showq
+END
+ap2-aes.sh
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/script/ap2-aes.sh
+END
+ssvcfg.sh
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/script/ssvcfg.sh
+END
+hostapd.conf.NO_SEC.template
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/script/hostapd.conf.NO_SEC.template
+END
+kmsg.sh
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/script/kmsg.sh
+END
+p2p_single.sh
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/script/p2p_single.sh
+END
+unload_ap.sh
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/script/unload_ap.sh
+END

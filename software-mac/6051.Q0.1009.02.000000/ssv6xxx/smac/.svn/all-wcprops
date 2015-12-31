@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/smac
+END
+ampdu.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/smac/ampdu.c
+END
+efuse.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/smac/efuse.c
+END
+ssv6xxx_debugfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/smac/ssv6xxx_debugfs.c
+END
+drv_comm.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/smac/drv_comm.h
+END
+ampdu.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/smac/ampdu.h
+END
+efuse.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/smac/efuse.h
+END
+ssv_rc_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/smac/ssv_rc_common.h
+END
+ssv6xxx_debugfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/smac/ssv6xxx_debugfs.h
+END
+linux_3_0_0.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/smac/linux_3_0_0.h
+END
+sec_wep.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/smac/sec_wep.c
+END
+ssv_ht_rc.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/smac/ssv_ht_rc.c
+END
+ssv_ht_rc.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/smac/ssv_ht_rc.h
+END
+ssv_rc.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/smac/ssv_rc.c
+END
+ap.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/smac/ap.c
+END
+p2p.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/smac/p2p.c
+END
+sec_tkip.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/smac/sec_tkip.c
+END
+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/smac/init.c
+END
+ssv_rc.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/smac/ssv_rc.h
+END
+ap.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/smac/ap.h
+END
+p2p.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/smac/p2p.h
+END
+lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/smac/lib.c
+END
+wapi_sms4.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/smac/wapi_sms4.c
+END
+ssv_pm.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/smac/ssv_pm.c
+END
+init.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/smac/init.h
+END
+lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/smac/lib.h
+END
+wapi_sms4.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/smac/wapi_sms4.h
+END
+ssv_pm.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/smac/ssv_pm.h
+END
+sec_ccmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/smac/sec_ccmp.c
+END
+dev.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/smac/dev.c
+END
+sec.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/smac/sec.h
+END
+linux_2_6_35.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/smac/linux_2_6_35.h
+END
+dev.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/smac/dev.h
+END
+dev_tbl.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/smac/dev_tbl.h
+END
+sec_wpi.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/smac/sec_wpi.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/smac/Makefile
+END
+sec_wpi.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/software/!svn/ver/9109/project/release/software-mac/6051.Q0.1009.02.000000/ssv6xxx/smac/sec_wpi.h
+END
